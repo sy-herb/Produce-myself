@@ -1,4 +1,8 @@
-### 자기 소개 항목 중 추구미에 관련한 항목입니다.
-### 자기 소개 항목 중 목표에 관련한 항목입니다.
-### 자기 소개 항목 중 관심사에 관련한 항목입니다.
-### 자기 소개 항목 중 한 줄 소개에 관련한 항목입니다.
+# Produce-myself
+타임어택 자기소개 페이지
+
+# main   → README.md 정리
+# feature/iam   → iam.md
+# feature/favorite  → favorite.md
+# feature/goals   → goals.md
+# feature/vibe   → vibe.md
